@@ -2,6 +2,19 @@ body {
   background: #f8e8a6;
 }
 
+h1,
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+}
+
 a {
   color: #008000;
 }
@@ -12,4 +25,11 @@ a:hover {
 
 a:visited {
   color: #008000;
+}
+
+.croissant-photo {
+  max-width: 90%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
