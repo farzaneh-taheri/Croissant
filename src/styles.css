@@ -1,0 +1,15 @@
+body {
+  background: #f8e8a6;
+}
+
+a {
+  color: #008000;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #008000;
+}
